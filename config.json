@@ -1,0 +1,14 @@
+{
+    "ip": "_TheLife.aternos.me",
+    "port": 29292,
+    "name": "24/7",
+    "auto-night-skip": "false",
+    "join-msg": "\u0412\u0441\u0435\u043c \u043f\u0440\u0438\u0432\u0435\u0442!",
+    "join-msg-on": "true",
+    "custom-message-enabled": "false",
+    "custom-message-1": "subscribe to LION BOY",
+    "custom-message-2": "subscribe to LION BOY",
+    "login-enabled": "true",
+    "register-cmd": "/register 0951722617! 0951722617!",
+    "login-cmd": "/login 0951722617!"
+}
